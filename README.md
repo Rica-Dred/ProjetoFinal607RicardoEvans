@@ -1,8 +1,11 @@
 # Mini-Sistema RH — Gestão de Férias e Faltas
 
 **Autor:** Ricardo Evans
+
 **Curso:** Programação de Sistemas de Informação
+
 **Unidade Curricular:** UC00607 — Programação em C++
+
 **Data:** Novembro 2025
 
 ## Descrição
